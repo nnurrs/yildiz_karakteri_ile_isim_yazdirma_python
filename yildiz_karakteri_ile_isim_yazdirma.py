@@ -1,4 +1,4 @@
-#21100011042/Nadire Nur/Sağlam
+#Nadire Nur/Sağlam
 
 print("\n\nŞekillerin düzgün çıkması için lütfen boyutu tek sayı ve 3'den büyük giriniz. ")
 boyut=int(input("Boyut giriniz: "))
